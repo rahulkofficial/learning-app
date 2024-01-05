@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DMSans-Bold.ttf",
+      "sha1": "5987ba6a8b8c8cc7f755431eca614ea7f5de1b96"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Italic.ttf",
+      "sha1": "2aef53d3a308dc93e5018814b71ee80e5ced5fea"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Light.ttf",
+      "sha1": "52d4f475534271ece8eb846df8e8177664ec7fb4"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Medium.ttf",
+      "sha1": "00ea5b83c109e751b844413d32e21b7689bf786d"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Regular.ttf",
+      "sha1": "ac9a042a40e49e8cdbfe0e64e84d9b1c5724e98d"
+    },
+    {
+      "path": "src/assets/fonts/Quantico-Bold.ttf",
+      "sha1": "1946d4d7bce32e7779a1e0b8cfe5b0bf15abda2b"
+    },
+    {
+      "path": "src/assets/fonts/Quantico-BoldItalic.ttf",
+      "sha1": "a8758b8301605d43547d29b00fd76f09edee171c"
+    },
+    {
+      "path": "src/assets/fonts/Quantico-Italic.ttf",
+      "sha1": "469791d88569e865c72d98d88d88c8ee9dd45867"
+    },
+    {
+      "path": "src/assets/fonts/Quantico-Regular.ttf",
+      "sha1": "8e3ddbe4ed600c60d126907bb391fdcd67dd0263"
+    }
+  ]
+}
